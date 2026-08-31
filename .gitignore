@@ -427,3 +427,6 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Secrets
+src/AutoOS.Core/Secrets/Local.cs
